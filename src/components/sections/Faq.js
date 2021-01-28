@@ -5,6 +5,13 @@ import { Section, Container } from '@components/global';
 import FaqItem from '@common/FaqItem';
 import ExternalLink from '@common/ExternalLink';
 
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/metaconsulting/15min" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
+
+
 const FAQS = [
   {
     title: 'What tech does Gatsby use?',
