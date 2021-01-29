@@ -12,19 +12,19 @@ const TEAM = [
     role: 'Founder',
   },
   /*{
-    name: 'Francesco',
+    name: 'Lisa',
     image: 'lisa.jpg',
     role: 'Art Director',
-  },
-  {
-    name: 'Ashlyn Harris',
-    image: 'ashlyn.jpg',
-    role: 'Frontend Engineer',
   },*/
+  {
+    name: 'Ashlyn',
+    image: 'ashlyn.jpg',
+    role: 'Engineer',
+  },
   {
     name: 'Francesco',
     image: 'todd.jpg',
-    role: 'Operations & Management',
+    role: 'Operations',
   },
   {
     name: 'Martin',
