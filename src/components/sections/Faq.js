@@ -24,6 +24,7 @@ const FAQS = [
       <>
         The first thing you do is you book a meeting with us, that way we can assess your needs and establish goals and expectations.
       If we can make sure you'll be happy with our services we will provide you with an agreed amount of potential clients every week!
+      <a href="https://calendly.com/metaconsulting/30min"><button>Book Us Here</button></a>
       </>
     ),
   },
