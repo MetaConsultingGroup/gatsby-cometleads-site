@@ -44,10 +44,12 @@ const Footer = () => (
     render={data => (
       <React.Fragment>
         <Art>
+          <a href="https://calendly.com/metaconsulting/30min">
           <Img
             fluid={data.art_pot.childImageSharp.fluid}
             style={{ width: 480, maxWidth: '100%', marginBottom: -16 }}
           />
+          </a>
         </Art>
         <FooterWrapper>
           <StyledContainer>
