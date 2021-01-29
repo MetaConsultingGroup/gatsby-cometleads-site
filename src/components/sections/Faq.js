@@ -9,34 +9,29 @@ import ExternalLink from '@common/ExternalLink';
 
 const FAQS = [
   {
-    title: 'What tech does Gatsby use?',
+    title: 'What can I expect from CometLeads?',
     content: () => (
       <>
-        Enjoy the power of the latest web technologies – React.js , Webpack ,
-        modern JavaScript and CSS and more — all set up and waiting for you to
-        start building
+        We have iteratively developed high efficiency systems for cold email ooutreach.
+      This is what we specialize in. The rest is up to you, do you want highly targeted clients? 
+      Do you want high ticket clients? Do you prefer an exploratory mode in which we find the ideal industries and clients for your business?
       </>
     ),
   },
   {
+    title: 'How do I partner with CometLeads',
+    content: () => (
+      <>
+        The first thing you do is you book a meeting with us, that way we can assess your needs and establish goals and expectations.
+      If we can make sure you'll be happy with our services we will provide you with an agreed amount of potential clients every week!
+      </>
+    ),
+  },
+  /*{
     title: 'Where can you source data from?',
     content: () => (
       <>
-        Gatsby’s rich data plugin ecosystem lets you build sites with the data
-        you want — from one or many sources: Pull data from headless CMSs, SaaS
-        services, APIs, databases, your file system, and more directly into your
-        pages using GraphQL.
-      </>
-    ),
-  },
-  {
-    title: 'How do I scale Gatsby sites?',
-    content: () => (
-      <>
-        Gatsby.js is Internet Scale. Forget complicated deploys with databases
-        and servers and their expensive, time-consuming setup costs,
-        maintenance, and scaling fears. Gatsby.js builds your site as “static”
-        files which can be deployed easily on dozens of services.
+        We have our own database and have a network of outside 
       </>
     ),
   },
@@ -63,7 +58,7 @@ const FAQS = [
         the site feels incredibly fast.
       </>
     ),
-  },
+  }, */
 ];
 
 const Faq = () => (
