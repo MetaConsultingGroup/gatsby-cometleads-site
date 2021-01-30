@@ -50,8 +50,8 @@ const About = () => (
             <div>
               <h2>Speed past the competition</h2>
               <p>
-                CometLeads builds the fastest possible cold email infrastructure for your needs. Instead of
-                waiting a long onboarding process, so you can hit the ground running — 
+                CometLeads builds the fastest possible cold email infrastructure for your needs. So that instead of
+                waiting a long onboarding process you can hit the ground running — 
                 with targeted high quality potential customers.
               </p>
             </div>
