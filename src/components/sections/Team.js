@@ -15,12 +15,12 @@ const TEAM = [
     name: 'Lisa',
     image: 'lisa.jpg',
     role: 'Art Director',
-  },*/
+  },
   {
     name: 'Ashlyn',
     image: 'ashlyn.jpg',
     role: 'Engineer',
-  },
+  }, */
   {
     name: 'Francesco',
     image: 'todd.jpg',
