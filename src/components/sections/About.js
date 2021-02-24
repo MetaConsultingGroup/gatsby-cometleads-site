@@ -52,11 +52,18 @@ const About = () => (
                   </h2>
               <p>
                 CometLeads constructs the fastest cold email infrastructure that matches the needs of our clients. 
+              </p>
 <br />
-                Maximise your operation’s capabilities
-                Our model focuses on mobilzing our clients through the onboarding process 
-                towards targeted high quality potential customers at a faster rate than our competitors.
-
+<h2>Maximise your operation’s capabilities</h2>
+  <br />
+  <p>Our model focuses on mobilzing our clients through the onboarding process
+  — towards targeted high quality potential customers,
+  at a faster rate than our competitors.
+  </p>
+              <h2>Save time & effort.</h2>
+<br />
+<p>             Saving you time and effort, allowing you to solely focus on the business rather than in. 
+             
               </p>
             </div>
             <Art>
@@ -68,21 +75,23 @@ const About = () => (
               <Img fluid={data.art_learn.childImageSharp.fluid} />
             </Art>
             <div>
-              <h2>Save time & effort.</h2>
+              <h2>We take care of the grueling work.</h2>
               <p>
                We specialize in acquiring qualified leads.  
-               Saving you time and effort, allowing you to solely focus on the business rather than in. 
+               We utilize the power of the latest email technologies and tools, to constantly improve on our iterated models 
+               — all set up and ready to facilitate your process to start obtaining clients.
               </p>
             </div>
           </Grid>
           <Grid>
             <div>
-              <h2>Grow and achieve your goals</h2>
+              <h2>We prioritize your growth and success.</h2>
               <p>
-                Waste no more time on futile calls and uninterested parties. Focus on the growth you want and nothing more.
+                CometLeads provides you the leads that propel you to the success you always wanted. 
+               
                 <br />
-                <br />
-                CometLeads gives you leads in every way that matters.
+                Do not settle for alternatives that waste your time on futile calls and uninterested parties. 
+                Focus on the growth you want and nothing more.  
               </p>
             </div>
             <Art>
