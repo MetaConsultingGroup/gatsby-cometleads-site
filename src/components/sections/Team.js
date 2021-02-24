@@ -27,7 +27,7 @@ const TEAM = [
     role: 'Operations',
   },
   {
-    name: 'Martin',
+    name: 'Javier',
     image: 'martin.jpg',
     role: 'Engineer',
   },
