@@ -48,11 +48,15 @@ const About = () => (
         <Container>
           <Grid>
             <div>
-              <h2>Speed past the competition</h2>
+              <h2>Remain ahead of the competition.
+                  </h2>
               <p>
-                CometLeads builds the fastest possible cold email infrastructure for your needs. So that instead of
-                waiting a long onboarding process you can hit the ground running — 
-                with targeted high quality potential customers.
+                CometLeads constructs the fastest cold email infrastructure that matches the needs of our clients. 
+<br />
+                Maximise your operation’s capabilities
+                Our model focuses on mobilzing our clients through the onboarding process 
+                towards targeted high quality potential customers at a faster rate than our competitors.
+
               </p>
             </div>
             <Art>
@@ -64,11 +68,10 @@ const About = () => (
               <Img fluid={data.art_learn.childImageSharp.fluid} />
             </Art>
             <div>
-              <h2>Nothing new to learn here</h2>
+              <h2>Save time & effort.</h2>
               <p>
-                We use the power of the latest email technologies and tools,
-                and continuosly improve on our iterated models — all set up and
-                waiting for you to start getting clients.
+               We specialize in acquiring qualified leads.  
+               Saving you time and effort, allowing you to solely focus on the business rather than in. 
               </p>
             </div>
           </Grid>
