@@ -54,12 +54,15 @@ const About = () => (
                 CometLeads constructs the fastest cold email infrastructure that matches the needs of our clients. 
               </p>
 <br />
+  <br />
 <h2>Maximise your operation’s capabilities</h2>
   <br />
   <p>Our model focuses on mobilzing our clients through the onboarding process
   — towards targeted high quality potential customers,
   at a faster rate than our competitors.
   </p>
+  <br />
+  <br />
               <h2>Save time & effort.</h2>
 <br />
 <p>             Saving you time and effort, allowing you to solely focus on the business rather than in. 
