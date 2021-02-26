@@ -67,6 +67,9 @@ const About = () => (
 
 <p>             Saving you time and effort, allowing you to solely focus on the business rather than in. 
              
+                 <br />
+                 <br />
+                <a href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</a>
               </p>
             </div>
             <Art>
@@ -83,6 +86,9 @@ const About = () => (
                We specialize in acquiring qualified leads.  
                We utilize the power of the latest email technologies and tools, to constantly improve on our iterated models 
                — all set up and ready to facilitate your process to start obtaining clients.
+                 <br />
+                 <br />
+                <a href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</a>
               </p>
             </div>
           </Grid>
@@ -95,6 +101,9 @@ const About = () => (
                 <br />
                 Do not settle for alternatives that waste your time on futile calls and uninterested parties. 
                 Focus on the growth you want and nothing more.  
+                 <br />
+                 <br />
+                <a href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</a>
               </p>
             </div>
             <Art>
