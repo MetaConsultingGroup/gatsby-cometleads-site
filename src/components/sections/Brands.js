@@ -16,15 +16,15 @@ import { ReactComponent as InstagramLogo } from '@images/logos/instagram.svg';
 const LOGOS = [
   {
     logo: AirbnbLogo,
-    link: 'https://airbnb.io',
+    link: 'https://ecomallies.com/',
   },
   {
     logo: AppleMusicLogo,
-    link: 'https://www.apple.com/in/music/',
+    link: 'https://growthhit.com/',
   },
   {
     logo: CokeLogo,
-    link: 'https://coca-cola.com',
+    link: 'https://reasonagency.co/',
   },
   {
     logo: NodeLogo,
@@ -36,7 +36,7 @@ const LOGOS = [
   },
   {
     logo: InstagramLogo,
-    link: 'https://instagram.com',
+    link: 'https://www.ezdia.com/',
   },
 ];
 
