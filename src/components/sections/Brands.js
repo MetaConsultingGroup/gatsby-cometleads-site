@@ -28,11 +28,11 @@ const LOGOS = [
   },
   {
     logo: NodeLogo,
-    link: 'https://nodejs.org',
+    link: 'https://www.razorgrip.com/',
   },
   {
     logo: NikeLogo,
-    link: 'https://nike.com',
+    link: 'https://www.bhldigital.co.uk/',
   },
   {
     logo: InstagramLogo,
