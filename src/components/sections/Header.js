@@ -37,7 +37,7 @@ const Header = () => (
               </h1>
               <br />
               <p>
-                <StyledExternalLink href="https://calendly.com/gritcult/60-min">
+                <StyledExternalLink href="https://calendly.com/gritcult/cometleads-com">
                   Book a Call &nbsp;&#x2794;
                 </StyledExternalLink>
               </p>
