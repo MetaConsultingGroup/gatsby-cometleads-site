@@ -69,7 +69,6 @@ const About = () => (
              
                  <br />
                  <br />
-                <a href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</a>
               </p>
             </div>
             <Art>
@@ -88,7 +87,6 @@ const About = () => (
                — all set up and ready to facilitate your process to start obtaining clients.
                  <br />
                  <br />
-                <a href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</a>
               </p>
             </div>
           </Grid>
@@ -103,7 +101,7 @@ const About = () => (
                 Focus on the growth you want and nothing more.  
                  <br />
                  <br />
-                <a href="https://calendly.com/gritcult/60-min">Book a call now! &nbsp;&#x2794;</a>
+                <a href="https://calendly.com/gritcult/cometleads-com">Book a call now! &nbsp;&#x2794;</a>
               </p>
             </div>
             <Art>
